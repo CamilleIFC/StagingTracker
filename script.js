@@ -271,12 +271,12 @@ document.addEventListener('DOMContentLoaded', function () {
     
         const flightInfoContent = `
             <h2>Flight Information</h2>
-            <p><b>Username:</b> ${username || 'No Username :('}</p>
-            <p><b>Callsign:</b> ${callsign}</p>
-            <p><b>Aircraft Type:</b> ${aircraftType}</p>
-            <p><b>Altitude:</b> <span>${roundedAltitude} feet</span></p>
-            <p><b>Speed:</b> ${roundedSpeed} knots</p>
-            <p><b>Flight Status:</b> <span style="color: ${flightStatusColor};">${flightStatus}</span></p>
+            <p><b>Username:   </b> ${username || 'No Username :('}</p>
+            <p><b>Callsign:   </b> ${callsign}</p>
+            <p><b>Aircraft Type:   </b> ${aircraftType}</p>
+            <p><b>Altitude:   </b> <span>${roundedAltitude} feet</span></p>
+            <p><b>Speed:   </b> ${roundedSpeed} knots</p>
+            <p><b>Flight Status:   </b> <span style="color: ${flightStatusColor};">${flightStatus}</span></p>
             ${waypointsInfo}
         `;
     
