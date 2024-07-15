@@ -1,29 +1,3 @@
-document.addEventListener('DOMContentLoaded', function() {
-    // Show warning popup for mobile users
-    if (window.innerWidth <= 768) {
-        var warningPopup = document.getElementById('warningPopup');
-        var warningContent = document.getElementById('warningContent');
-        warningPopup.style.display = 'block';
-
-        var countdown = 3;
-        var timer = setInterval(function() {
-            countdown--;
-            if (countdown >= 0) {
-                warningContent.textContent = 'This page is optimized for desktop.  This message will disappear in ' + countdown + '...';
-            } else {
-                clearInterval(timer);
-                warningPopup.style.opacity = '0';
-                setTimeout(function() {
-                    warningPopup.style.display = 'none';
-                }, 1000);
-            }
-        }, 1000);
-    }
-});
-
-
-
-
 
 document.addEventListener('DOMContentLoaded', function () {
     var maxBounds = [
