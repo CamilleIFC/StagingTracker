@@ -132,31 +132,26 @@ body {
     width: 100%;
     z-index: 10002;
     opacity: 1;
-    transition: opacity 1s ease; /* CSS transition for opacity */
+    transition: opacity 1s ease; 
 }
 
-#warningContent {
-    text-align: center;
-}
-
-/* Media Query for Mobile */
 @media (max-width: 768px) {
     .container {
-        flex-direction: column; /* Stack items vertically */
+        flex-direction: column; 
     }
 
     #map {
         width: 100%;
-        height: 110vh; /* Adjust height as needed */
+        height: 110vh;
     }
 
     #text-section {
-        order: 2; /* Display at bottom on mobile */
+        order: 2; 
         width: 100%;
         padding: 15px;
     }
 
     #layerSelect {
-        order: 3; /* Display below text-section on mobile */
+        order: 3;
     }
 }
