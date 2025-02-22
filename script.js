@@ -378,7 +378,7 @@ document.addEventListener('DOMContentLoaded', function () {
         const { username, callsign, altitude, speed, aircraftId, flightId } = flightInfo;
         const roundedAltitude = Math.round(altitude);
         const roundedSpeed = Math.round(speed);
-        const aircraftType = aircraftTypes[aircraftId] || 'Unknownn';
+        const aircraftType = aircraftTypes[aircraftId] || 'Unknown';
     
         const textSection = document.getElementById('text-section');
     
