@@ -1,0 +1,175 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+html, body {
+    background-color: #121212;
+    color: #e0e0e0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+}
+
+
+.container {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    gap: 20px;
+}
+
+
+#map {
+    flex: 3;
+    border-radius: 15px;
+    overflow: hidden;
+    position: relative;
+    z-index: 1; 
+}
+
+
+.leaflet-control-zoom {
+    display: none !important;
+}
+
+
+#layerSelect {
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    background: rgba(20, 20, 20, 0.95);
+    padding: 12px;
+    border-radius: 10px;
+    z-index: 1001; 
+}
+
+#changeMapBtn {
+    position: absolute;
+    top: 70px; 
+    left: 15px;
+    width: 0px;
+    height: 0px;
+    background: rgba(20, 20, 20, 0.95);
+    border: none;
+    border-radius: 0px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: transform 0.2s ease, background 0.2s ease;
+    z-index: 1002; /* cuz why not */
+}
+
+#changeMapBtn:hover {
+    transform: scale(1.1);
+    background: rgba(40, 40, 40, 0.95);
+}
+
+#changeMapBtn img {
+    width: 28px;
+    height: 28px;
+}
+
+/* Flight Info Panel */
+#text-section {
+    flex: 1;
+    background: rgba(30, 30, 30, 0.95);
+    padding: 20px;
+    border-radius: 15px;
+    overflow-y: auto;
+}
+
+h2 {
+    font-weight: 600;
+    margin-bottom: 15px;
+    color: #ff9800;
+    text-align: center;
+}
+
+p {
+    font-size: 14px;
+    margin: 8px 0;
+    line-height: 1.5;
+}
+
+/* Buttons */
+button {
+    background: linear-gradient(45deg, #ff9800, #ff9800);
+    border: none;
+    padding: 12px;
+    margin-top: 15px;
+    width: 100%;
+    border-radius: 10px;
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: transform 0.3s ease, background 0.3s ease;
+}
+
+button:hover {
+    transform: scale(1.05);
+    background: linear-gradient(45deg, #ff9800, #ff9800);
+}
+
+/* Fix - Square Magnifying Glass Button */
+.leaflet-control-geocoder-icon {
+    width: 40px !important;
+    height: 40px !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+    background-color: rgba(0, 0, 0, 0.8);
+    transition: transform 0.2s ease;
+}
+
+.leaflet-control-geocoder-icon:hover {
+    transform: scale(1.1);
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+    .container {
+        flex-direction: column;
+        height: auto;
+    }
+
+    #map {
+        height: 60vh;
+    }
+
+    #text-section {
+        height: 35vh;
+    }
+}
+
+@media (max-width: 600px) {
+    body {
+        overflow: auto;
+    }
+
+    .container {
+        width: 100%;
+        padding: 10px;
+    }
+
+    #layerSelect {
+        top: 10px;
+        left: 10px;
+        width: 160px;
+    }
+
+    #changeMapBtn {
+        top: 70px;
+        left: 10px;
+    }
+}
