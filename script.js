@@ -1,1 +1,676 @@
-function _0x15c1(_0x43f6f8,_0x417b71){const _0x212b37=_0x212b();return _0x15c1=function(_0x15c1eb,_0x527555){_0x15c1eb=_0x15c1eb-0xdf;let _0x90b061=_0x212b37[_0x15c1eb];return _0x90b061;},_0x15c1(_0x43f6f8,_0x417b71);}const _0x177a67=_0x15c1;function _0x212b(){const _0x12a8ed=['236311IsdXqL','No\x20Username\x20:(','target','Airbus\x20A330-900','static/circle.png','URL','filter','white','Using\x20Spitfire.png\x20for\x20specific\x20aircraft\x20ID','createObjectURL','click','ef677903-f8d3-414f-a190-233b2b855d46','Download\x20KML','CRJ-1000','classList','Bombardier\x20Dash\x208-Q400','longitude','</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p><b>Callsign:\x20\x20\x20</b>\x20','Control','C-130H','Boeing\x20737-700','error','Boeing\x20777-300ER','<span\x20style=\x22color:\x20orange;\x22>','.gpx','7bd8096f-8eae-47b9-8e1a-38dabd2c59c4','application/vnd.google-earth.kml+xml','Airbus\x20A330-300','Error\x20fetching\x20flights:','F-22','</time>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</trkpt>\x0a\x20\x20\x20\x20','Airbus\x20A320','json','/flights?apikey=','Using\x20F16.png\x20for\x20specific\x20aircraft\x20ID','value','errorCode','Boeing\x20747-AF1','username','satellite','map','getElementById','red','CRJ-900','Boeing\x20717-200','c82da702-ea61-4399-921c-34f35f3ca5c4',';\x22>','static/Spitfire.png','layerSelect','openOn','Flight\x20ID\x20clicked:','Boeing\x20747-8','\x20\x20\x20\x20\x20\x20<trkpt\x20lat=\x22','Airbus\x20A330-200F','Using\x20C172.png\x20for\x20specific\x20aircraft\x20ID','static/A320.png','\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','result','d7434d84-555a-4d9b-93a7-53c77cf846ea','static/F18.png','/route?apikey=','text-section','download','Space\x20Shuttle','Error\x20fetching\x20flight\x20info:','Spitfire','©\x20OpenStreetMap\x20contributors','DC-10','8a62f1d0-bca9-494c-bc01-1fb8b7255f76','On\x20Ground','lastReport','polyline','Boeing\x20747-400','Download\x20GPX','length','log','marker','229155OFdszV','</span></p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','fitBounds','Cessna\x20208','/flights/','2752644CiXJdS','Boeing\x20747-SCA','In\x20Flight','change','date','2c2f162e-a7d9-4ebd-baf4-859aed36165a','flightId','/3.2808</ele>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<time>','IDK,\x20it\x27s\x20broken','MD-11','9759c19f-8f18-40f5-80d1-03a272f98a3b','osm','</name>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<description>Flight\x20Route\x20KML</description>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<Style\x20id=\x22line-ffa500-240-nodesc-normal\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<LineStyle>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<color>ff00a5ff</color>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<width>2</width>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</LineStyle>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</Style>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<Placemark>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<styleUrl>#line-ffa500-240-nodesc-normal</styleUrl>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<LineString>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<extrude>1</extrude>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tessellate>1</tessellate>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<altitudeMode>absolute</altitudeMode>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<coordinates>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','hasLayer','Error\x20Fetching\x20Flight\x20Plan,\x20Sorry...','waypoints','textContent','/{z}/{x}/{y}.png?appid=','206884f9-38a8-4118-a920-a7dcbd166c47','</name>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<desc>Flight\x20Route\x20GPX</desc>\x0a\x20\x20\x20\x20\x20\x20</metadata>\x0a\x20\x20\x20\x20\x20\x20<trk>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<name>','flightInfo','_popup','addTo','aircraftId','application/gpx+xml','addEventListener','addLatLng','Paused','Boeing\x20777-200LR','removeLayer','altitude','toISOString','markgeocode','Using\x20A320.png\x20for\x20specific\x20aircraft\x20ID','F/A-18E\x20Super\x20Hornet','<?xml\x20version=\x221.0\x22\x20encoding=\x22UTF-8\x22?>\x0a\x20\x20\x20\x20<gpx\x20version=\x221.1\x22\x20creator=\x22Your\x20Application\x20Name\x22\x20xmlns=\x22http://www.topografix.com/GPX/1/1\x22\x20xmlns:xsi=\x22http://www.w3.org/2001/XMLSchema-instance\x22\x20xsi:schemaLocation=\x22http://www.topografix.com/GPX/1/1\x20http://www.topografix.com/GPX/1/1/gpx.xsd\x22>\x0a\x20\x20\x20\x20\x20\x20<metadata>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<name>','flyTo','227958cbMygO','Error\x20fetching\x20flight\x20route:','latlng','orange','/3.2808\x0a','geocoder','Airbus\x20A318','Error\x20downloading\x20GPX:\x20Route\x20data\x20is\x20missing.','\x22\x20style=\x22width:\x20100%;\x20height:\x20100%;\x20transform:\x20rotate(','Boeing\x20737\x20MAX8','5,\x2010','flightPlanItems','P-38','tileLayer','Boeing\x20777F','AC-130','Boeing\x20767-300','F-16','latitude','Boeing\x20737-800','innerHTML','<img\x20src=\x22','appendChild','E190','href','</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p><b>Aircraft\x20Type:\x20\x20\x20</b>\x20','\x20→\x20','changeMapBtn','none','</span></p>','custom-marker','button','DC-10F','a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3','hsl(0,\x200.00%,\x20100.00%)','deg);\x22>','16g9z0yzub3dszefdibss5455tytdhkr','Airbus\x20A321','.kml','Airbus\x20A350','geocode','createElement','\x20\x20\x20\x20</trkseg>\x0a\x20\x20\x20\x20\x20\x20</trk>\x0a\x20\x20\x20\x20</gpx>','17990416EEGEXK','Airbus\x20A220-300','f11ed126-bce8-46ef-9265-69191c354575','https://api.infiniteflight.com/public/v2/sessions/','\x20-\x20','location','\x0a\x20\x20\x20\x20\x20\x20\x20\x20','static/C172.png','Boeing\x20757-200','0a3edb21-d515-4619-8392-aef51b952ac9','round','32JHqqwb','\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<ele>','Boeing\x20747-200','Boeing\x20737-900','2937470mdnDUC','No\x20flight\x20plan\x20available.</p>','</name>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<desc>Flight\x20Route\x20GPX</desc>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<trkseg>\x0a\x20\x20\x20\x20','Challenger\x20350','\x20knots</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p><b>Flight\x20Status:\x20\x20\x20</b>\x20<span\x20style=\x22color:\x20','static/A380.png','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h2>Flight\x20Information</h2>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p><b>Username:\x20\x20\x20</b>\x20','Using\x20plane.png','https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png','Flight\x20Username:','static/747.png','</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p><b>Altitude:\x20\x20\x20</b>\x20<span>','55915385cd68325e3e3b68dcd1fd80f7','CRJ-200','center','<span\x20style=\x22color:\x20pink;\x22>','getBounds','Using\x20777.png\x20for\x20specific\x20aircraft\x20ID','Boeing\x20787-8','Error\x20fetching\x20flight\x20plan:','9551122rbuZlL','Cirrus\x20SR22\x20GTS','forEach','hsl(120,\x20100%,\x2050%)','F-14','slice','add','MD-11F','E175','Airbus\x20A380','static/F16.png','btnStyle','d2666fb6-c7c9-443a-905a-d0a8876214b3','6925c030-a868-49cc-adc8-7025537c51ca','Error\x20downloading\x20KML:\x20Route\x20data\x20is\x20missing.','Airbus\x20A340-600','Bearer\x20','push','Using\x20747.png\x20for\x20specific\x20aircraft\x20ID'];_0x212b=function(){return _0x12a8ed;};return _0x212b();}(function(_0x152d37,_0x48f4cd){const _0x25308d=_0x15c1,_0x4c157a=_0x152d37();while(!![]){try{const _0x4fc04c=-parseInt(_0x25308d(0x1a0))/0x1+parseInt(_0x25308d(0x179))/0x2+parseInt(_0x25308d(0x11a))/0x3+-parseInt(_0x25308d(0x175))/0x4*(parseInt(_0x25308d(0x115))/0x5)+-parseInt(_0x25308d(0x13f))/0x6+parseInt(_0x25308d(0x18d))/0x7+-parseInt(_0x25308d(0x16a))/0x8;if(_0x4fc04c===_0x48f4cd)break;else _0x4c157a['push'](_0x4c157a['shift']());}catch(_0x2c13c6){_0x4c157a['push'](_0x4c157a['shift']());}}}(_0x212b,0xd232f),document['addEventListener']('DOMContentLoaded',function(){const _0x39b5a0=_0x15c1;var _0x1d204e=[[-0x5a,-0xc3],[0x5a,0xc3]],_0x611407=L[_0x39b5a0(0xf0)](_0x39b5a0(0xf0),{'center':[0xa,-0x0],'zoom':1.5,'noWrap':![],'maxBounds':_0x1d204e,'maxBoundsViscosity':0.85,'minZoom':1.5});const _0x191fb3=L['tileLayer'](_0x39b5a0(0x181),{'attribution':_0x39b5a0(0x10a),'noWrap':![]})['addTo'](_0x611407);var _0x4da090=_0x39b5a0(0x185);function _0xf93124(_0x57fc29){const _0x29a392=_0x39b5a0;return L[_0x29a392(0x14c)]('https://tile.openweathermap.org/map/'+_0x57fc29+_0x29a392(0x12b)+_0x4da090,{'opacity':0x1,'maxZoom':0x13});}var _0x24f8c6=_0xf93124(_0x39b5a0(0x15b));_0x24f8c6[_0x39b5a0(0x130)](_0x611407),document[_0x39b5a0(0xf1)](_0x39b5a0(0xf8))[_0x39b5a0(0x133)](_0x39b5a0(0x11d),function(_0x291709){const _0x32efae=_0x39b5a0;var _0x280426=_0x291709[_0x32efae(0x1a2)][_0x32efae(0xeb)];_0x24f8c6&&_0x611407[_0x32efae(0x137)](_0x24f8c6),_0x24f8c6=_0xf93124(_0x280426),_0x24f8c6[_0x32efae(0x130)](_0x611407);});const _0x97dc73=L[_0x39b5a0(0x14c)](_0x39b5a0(0x181)),_0x5638d6=L[_0x39b5a0(0x14c)]('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}'),_0x146d36=document['getElementById'](_0x39b5a0(0x15a)),_0x50cecc=L[_0x39b5a0(0x1b2)][_0x39b5a0(0x144)]({'defaultMarkGeocode':![]})[_0x39b5a0(0x130)](_0x611407);let _0x1f4aa6=[],_0x1b592a,_0x5174ae;async function _0x2df18c(_0x433d84){const _0x1bbdc0=_0x39b5a0,_0x1ac37b=_0x433d84['target']['flightId'];_0x5db769(),_0x3eab9f(),_0x3f4a74();const _0x3bf0d6=await _0x41d4bd(_0x1ac37b);if(_0x3bf0d6){_0x8e59c0(_0x3bf0d6);const _0xf5e72d=await _0x1766e2(_0x1ac37b);_0xf5e72d&&_0x19a4f5(_0xf5e72d,_0x433d84[_0x1bbdc0(0x141)]);}console[_0x1bbdc0(0x113)](_0x1bbdc0(0xfa),_0x433d84[_0x1bbdc0(0x1a2)][_0x1bbdc0(0x120)]);}async function _0x5db769(){const _0x509297=_0x39b5a0;_0x1b592a&&(_0x611407[_0x509297(0x137)](_0x1b592a),_0x1b592a=null),_0x5174ae&&(_0x611407[_0x509297(0x137)](_0x5174ae),_0x5174ae=null);}async function _0x3eab9f(){_0x7bcccc&&(_0x611407['removeLayer'](_0x7bcccc),_0x1b592a=null);}function _0x3f4a74(){const _0x2d4d30=_0x39b5a0,_0x23428d=document[_0x2d4d30(0xf1)](_0x2d4d30(0x105));_0x23428d[_0x2d4d30(0x153)]='';}async function _0x41d4bd(_0x288ce8){const _0x5e39ed=_0x39b5a0,_0x312f08=_0x5e39ed(0x163),_0x5280='d2666fb6-c7c9-443a-905a-d0a8876214b3',_0x4784ba=_0x5e39ed(0x16d)+_0x5280+_0x5e39ed(0x119)+_0x288ce8+'?apikey='+_0x312f08;try{const _0x5f15f4=await fetch(_0x4784ba),_0x14f625=await _0x5f15f4[_0x5e39ed(0xe8)]();return _0x14f625[_0x5e39ed(0xec)]===0x0?_0x14f625[_0x5e39ed(0x101)]:(console[_0x5e39ed(0x1b5)](_0x5e39ed(0x108),_0x14f625),null);}catch(_0x40b056){return console[_0x5e39ed(0x1b5)](_0x5e39ed(0x108),_0x40b056),null;}}async function _0x1766e2(_0x143065){const _0x121c21=_0x39b5a0,_0xd18ed9=_0x121c21(0x163),_0x4b94f7=_0x121c21(0x199),_0x495515=_0x121c21(0x16d)+_0x4b94f7+_0x121c21(0x119)+_0x143065+_0x121c21(0x104)+_0xd18ed9;try{const _0x5188e1=await fetch(_0x495515),_0x1aa67e=await _0x5188e1['json']();return _0x1aa67e[_0x121c21(0xec)]===0x0?_0x1aa67e[_0x121c21(0x101)]:(console[_0x121c21(0x1b5)](_0x121c21(0x140),_0x1aa67e),null);}catch(_0xae9fb9){return console[_0x121c21(0x1b5)](_0x121c21(0x140),_0xae9fb9),null;}}async function _0x4d33a1(_0x5bc90b){const _0x33d85b=_0x39b5a0,_0x4f29fa=_0x33d85b(0x163),_0x1b04e9=_0x33d85b(0x199),_0x24de76=_0x33d85b(0x16d)+_0x1b04e9+'/flights/'+_0x5bc90b+'/flightplan?apikey='+_0x4f29fa;try{const _0x3e4a2f=await fetch(_0x24de76,{'headers':{'Authorization':_0x33d85b(0x19d)+_0x4f29fa}}),_0x475a9c=await _0x3e4a2f[_0x33d85b(0xe8)]();return _0x475a9c['errorCode']===0x0?_0x475a9c[_0x33d85b(0x101)]:(console[_0x33d85b(0x1b5)](_0x33d85b(0x128),_0x475a9c),null);}catch(_0x23cb50){return console[_0x33d85b(0x1b5)](_0x33d85b(0x18c),_0x23cb50),null;}}let _0x7bcccc;function _0x65c395(_0x33b1e4){const _0x245bca=_0x39b5a0;if(!_0x33b1e4||!_0x33b1e4[_0x245bca(0x14a)])return;const _0x347063=_0x33b1e4[_0x245bca(0x14a)][_0x245bca(0xf0)](_0x5ef871=>[_0x5ef871[_0x245bca(0x16f)][_0x245bca(0x151)],_0x5ef871[_0x245bca(0x16f)][_0x245bca(0x1b0)]])[_0x245bca(0x1a6)](_0x12890c=>_0x12890c[0x0]!==0x0&&_0x12890c[0x1]!==0x0);_0x7bcccc&&_0x611407['removeLayer'](_0x7bcccc),_0x7bcccc=L[_0x245bca(0x10f)](_0x347063,{'color':_0x245bca(0xf2),'dashArray':_0x245bca(0x149),'weight':0x2,'opacity':0.7})['addTo'](_0x611407),_0x611407[_0x245bca(0x117)](_0x7bcccc[_0x245bca(0x189)]());}async function _0x8e59c0(_0xdc6fa8){const _0x245bf8=_0x39b5a0,{username:_0x14110d,callsign:_0x2c77cf,altitude:_0x5cdd77,speed:_0x5703af,aircraftId:_0x6ea1e0,flightId:_0x197da4}=_0xdc6fa8,_0x2161d1=Math[_0x245bf8(0x174)](_0x5cdd77),_0x38baf8=Math[_0x245bf8(0x174)](_0x5703af),_0x55b4b6=aircraftTypes[_0x6ea1e0]||_0x245bf8(0x122),_0x1aabb6=document[_0x245bf8(0xf1)](_0x245bf8(0x105));let _0xa5649a='',_0x49ada8='';_0x5703af<0x28?_0x5cdd77>0x1b58?(_0xa5649a=_0x245bf8(0x135),_0x49ada8=_0x245bf8(0x142)):(_0xa5649a='On\x20Ground',_0x49ada8=_0x245bf8(0xf2)):(_0xa5649a=_0x245bf8(0x11c),_0x49ada8=_0x245bf8(0x190));const _0x523d5b=await _0x4d33a1(_0x197da4);let _0x1aad45='<p><b>Route:</b>\x20';_0x523d5b&&_0x523d5b[_0x245bf8(0x101)]&&_0x523d5b[_0x245bf8(0x101)]['waypoints']?_0x523d5b[_0x245bf8(0x101)][_0x245bf8(0x129)]['length']>0x1?(_0x1aad45+=_0x245bf8(0xdf)+_0x523d5b[_0x245bf8(0x101)][_0x245bf8(0x129)][0x0]+'\x20→\x20'+_0x523d5b[_0x245bf8(0x101)][_0x245bf8(0x129)][_0x523d5b['result']['waypoints'][_0x245bf8(0x112)]-0x1]+_0x245bf8(0x15c),_0x65c395(_0x523d5b[_0x245bf8(0x101)])):_0x1aad45+=_0x245bf8(0xdf)+_0x523d5b[_0x245bf8(0x101)]['waypoints'][0x0]+'</span></p>':_0x1aad45+=_0x245bf8(0x17a);const _0x4d8115='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h2>Flight\x20Information</h2>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p><b>Username:\x20\x20\x20</b>\x20'+(_0x14110d||_0x245bf8(0x1a1))+_0x245bf8(0x1b1)+_0x2c77cf+_0x245bf8(0x158)+_0x55b4b6+_0x245bf8(0x184)+_0x2161d1+'\x20feet</span></p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p><b>Speed:\x20\x20\x20</b>\x20'+_0x38baf8+_0x245bf8(0x17d)+_0x49ada8+_0x245bf8(0xf6)+_0xa5649a+_0x245bf8(0x116)+_0x1aad45+_0x245bf8(0x170);_0x1aabb6[_0x245bf8(0x153)]=_0x4d8115;const _0x4ebbd2=document[_0x245bf8(0x168)](_0x245bf8(0x15e));_0x4ebbd2['textContent']=_0x245bf8(0x111),_0x4ebbd2[_0x245bf8(0x1ae)][_0x245bf8(0x193)]('btnStyle'),_0x4ebbd2[_0x245bf8(0x133)](_0x245bf8(0x1aa),()=>{_0x2c3c59(_0xdc6fa8);}),_0x1aabb6['appendChild'](_0x4ebbd2);const _0x3ec4c9=document[_0x245bf8(0x168)](_0x245bf8(0x15e));_0x3ec4c9[_0x245bf8(0x12a)]=_0x245bf8(0x1ac),_0x3ec4c9[_0x245bf8(0x1ae)][_0x245bf8(0x193)](_0x245bf8(0x198)),_0x3ec4c9['addEventListener'](_0x245bf8(0x1aa),()=>{_0x44d481(_0xdc6fa8);}),_0x1aabb6[_0x245bf8(0x155)](_0x3ec4c9);}async function _0x2c3c59(_0x1bd056){const _0x767e=_0x39b5a0,_0x55fce5=_0x1bd056[_0x767e(0x120)],_0x3586a3=await _0x1766e2(_0x55fce5);if(_0x3586a3){const _0x376d0b=_0x556fca(_0x3586a3),_0xc29261=new Blob([_0x376d0b],{'type':_0x767e(0x132)}),_0x47eae2=document['createElement']('a'),_0x40a54a=_0x1bd056[_0x767e(0x10e)][_0x767e(0x192)](0x0,0xa);_0x47eae2[_0x767e(0x157)]=window[_0x767e(0x1a5)][_0x767e(0x1a9)](_0xc29261),_0x47eae2['download']=_0x1bd056[_0x767e(0xee)]+'_'+_0x40a54a+_0x767e(0xe0),_0x47eae2[_0x767e(0x1aa)]();}else console[_0x767e(0x1b5)](_0x767e(0x146));}function _0x556fca(_0x31e92c,_0x4ce299,_0xa03ebe){const _0x3efd23=_0x39b5a0;let _0x59baea=_0x3efd23(0x13d)+_0x4ce299+_0x3efd23(0x16e)+_0xa03ebe+_0x3efd23(0x12d)+_0x4ce299+_0x3efd23(0x16e)+_0xa03ebe+_0x3efd23(0x17b);return _0x31e92c[_0x3efd23(0x18f)](_0x14b0c2=>{const _0x373a03=_0x3efd23;_0x59baea+=_0x373a03(0xfc)+_0x14b0c2['latitude']+'\x22\x20lon=\x22'+_0x14b0c2[_0x373a03(0x1b0)]+_0x373a03(0x176)+_0x14b0c2[_0x373a03(0x138)]+_0x373a03(0x121)+_0x14b0c2[_0x373a03(0x11e)]+_0x373a03(0xe6);}),_0x59baea+=_0x3efd23(0x169),_0x59baea;}async function _0x44d481(_0x32975b){const _0xb2dd80=_0x39b5a0,_0x3f7d27=_0x32975b[_0xb2dd80(0x120)],_0x223410=await _0x1766e2(_0x3f7d27);if(_0x223410){const _0x36cb67=new Date()[_0xb2dd80(0x139)](),_0x2445ec=_0x3979ac(_0x223410,_0x32975b[_0xb2dd80(0xee)],_0x36cb67),_0x219cd3=new Blob([_0x2445ec],{'type':_0xb2dd80(0xe2)}),_0x10cf9e=document[_0xb2dd80(0x168)]('a'),_0x387a20=_0x32975b[_0xb2dd80(0x10e)][_0xb2dd80(0x192)](0x0,0xa);_0x10cf9e[_0xb2dd80(0x157)]=window[_0xb2dd80(0x1a5)][_0xb2dd80(0x1a9)](_0x219cd3),_0x10cf9e[_0xb2dd80(0x106)]=_0x32975b[_0xb2dd80(0xee)]+'_'+_0x387a20+_0xb2dd80(0x165),_0x10cf9e['click']();}else console['error'](_0xb2dd80(0x19b));}function _0x3979ac(_0x186b41,_0x5afda0,_0x7b2a9){const _0x3f2951=_0x39b5a0;let _0x417461='<?xml\x20version=\x221.0\x22\x20encoding=\x22UTF-8\x22?>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<kml\x20xmlns=\x22http://www.opengis.net/kml/2.2\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<Document>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<name>'+_0x5afda0+_0x3f2951(0x16e)+_0x7b2a9+_0x3f2951(0x126);return _0x186b41[_0x3f2951(0x18f)](_0x1a0ee0=>{const _0xde1586=_0x3f2951;_0x417461+=_0xde1586(0x100)+_0x1a0ee0[_0xde1586(0x1b0)]+','+_0x1a0ee0[_0xde1586(0x151)]+','+_0x1a0ee0[_0xde1586(0x138)]+_0xde1586(0x143);}),_0x417461+='\x20\x20\x20\x20\x20\x20\x20\x20</coordinates>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</LineString>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</Placemark>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</Document>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</kml>',_0x417461;}function _0x19a4f5(_0xd63518,_0x5a2fd5){const _0x58179e=_0x39b5a0;if(!_0xd63518||_0xd63518[_0x58179e(0x112)]===0x0)return;const _0x446562=_0xd63518[_0x58179e(0xf0)](_0x6971d2=>[_0x6971d2['latitude'],_0x6971d2[_0x58179e(0x1b0)]]);_0x1b592a&&_0x611407[_0x58179e(0x137)](_0x1b592a),_0x1b592a=L[_0x58179e(0x10f)](_0x446562,{'color':_0x58179e(0x1a7),'weight':0x3,'opacity':0.8,'smoothFactor':0x1})[_0x58179e(0x130)](_0x611407),_0x5a2fd5&&_0x1b592a[_0x58179e(0x134)](_0x5a2fd5),_0x611407[_0x58179e(0x117)](_0x1b592a[_0x58179e(0x189)]());}async function _0x8e59c0(_0x4186d7){const _0x676d88=_0x39b5a0,{username:_0x3bbf15,callsign:_0x427eeb,altitude:_0x1c597c,speed:_0x5860f5,aircraftId:_0x4074c6,flightId:_0x1a2383}=_0x4186d7,_0x535833=Math[_0x676d88(0x174)](_0x1c597c),_0x219e5c=Math[_0x676d88(0x174)](_0x5860f5),_0x2d62e8=aircraftTypes[_0x4074c6]||'Unknownn',_0x5abfed=document['getElementById'](_0x676d88(0x105));let _0x3ebf54='',_0x129301='';_0x5860f5<0x28?_0x1c597c>0x1b58?(_0x3ebf54=_0x676d88(0x135),_0x129301=_0x676d88(0x142)):(_0x3ebf54=_0x676d88(0x10d),_0x129301='red'):(_0x3ebf54=_0x676d88(0x11c),_0x129301=_0x676d88(0x161));const _0x3bc65b=await _0x4d33a1(_0x1a2383);let _0x5a699d='<p><b>Route:</b>\x20';_0x3bc65b&&_0x3bc65b[_0x676d88(0x129)]?_0x3bc65b['waypoints']['length']>0x1?(_0x5a699d+='<span\x20style=\x22color:\x20pink;\x22>'+_0x3bc65b[_0x676d88(0x129)][0x0]+_0x676d88(0x159)+_0x3bc65b['waypoints'][_0x3bc65b['waypoints'][_0x676d88(0x112)]-0x1]+_0x676d88(0x15c),_0x65c395(_0x3bc65b)):_0x5a699d+=_0x676d88(0x188)+_0x3bc65b['waypoints'][0x0]+_0x676d88(0x15c):_0x5a699d+=_0x676d88(0x17a);const _0x3fb22f=_0x676d88(0x17f)+(_0x3bbf15||_0x676d88(0x1a1))+_0x676d88(0x1b1)+_0x427eeb+_0x676d88(0x158)+_0x2d62e8+_0x676d88(0x184)+_0x535833+'\x20feet</span></p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p><b>Speed:\x20\x20\x20</b>\x20'+_0x219e5c+'\x20knots</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p><b>Flight\x20Status:\x20\x20\x20</b>\x20<span\x20style=\x22color:\x20'+_0x129301+_0x676d88(0xf6)+_0x3ebf54+'</span></p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+_0x5a699d+'\x0a\x20\x20\x20\x20\x20\x20\x20\x20';_0x5abfed['innerHTML']=_0x3fb22f;const _0x4f2ac4=document[_0x676d88(0x168)]('button');_0x4f2ac4[_0x676d88(0x12a)]=_0x676d88(0x111),_0x4f2ac4[_0x676d88(0x1ae)][_0x676d88(0x193)](_0x676d88(0x198)),_0x4f2ac4[_0x676d88(0x133)](_0x676d88(0x1aa),()=>{_0x2c3c59(_0x4186d7);}),_0x5abfed[_0x676d88(0x155)](_0x4f2ac4);const _0x427441=document[_0x676d88(0x168)](_0x676d88(0x15e));_0x427441[_0x676d88(0x12a)]=_0x676d88(0x1ac),_0x427441[_0x676d88(0x1ae)]['add'](_0x676d88(0x198)),_0x427441[_0x676d88(0x133)]('click',()=>{_0x44d481(_0x4186d7);}),_0x5abfed['appendChild'](_0x427441);}function _0x23ce8f(_0x4d272b){const _0x455ec4=_0x39b5a0;console[_0x455ec4(0x113)](_0x455ec4(0x182),_0x4d272b['username']);const _0x5d9672=_0x183656(),{username:_0x41a000}=_0x4d272b,_0xbd9eb8=_0x4d272b[_0x455ec4(0x131)];if(_0xbd9eb8===_0x455ec4(0x12c))return console[_0x455ec4(0x113)](_0x455ec4(0xfe)),_0x455ec4(0x171);else{if(_0xbd9eb8===_0x455ec4(0x16c))return console[_0x455ec4(0x113)]('Using\x20A380.png\x20for\x20specific\x20aircraft\x20ID'),_0x455ec4(0x17e);else{if(_0xbd9eb8==='ef677903-f8d3-414f-a190-233b2b855d46')return console[_0x455ec4(0x113)]('Using\x20C172.png\x20for\x20specific\x20aircraft\x20ID'),_0x455ec4(0x171);else{if(_0xbd9eb8===_0x455ec4(0xf5)||_0xbd9eb8==='de510d3d-04f8-46e0-8d65-55b888f33129'||_0xbd9eb8===_0x455ec4(0x124))return console[_0x455ec4(0x113)](_0x455ec4(0x19f)),_0x455ec4(0x183);else{if(_0xbd9eb8===_0x455ec4(0x173))return console[_0x455ec4(0x113)]('Using\x20F18.png\x20for\x20specific\x20aircraft\x20ID'),_0x455ec4(0x103);else{if(_0xbd9eb8===_0x455ec4(0xe1))return console[_0x455ec4(0x113)](_0x455ec4(0xea)),_0x455ec4(0x197);else{if(_0xbd9eb8==='bec63a00-a483-4427-a076-0f76dba0ee97'||'8290107b-d728-4fc3-b36e-0224c1780bac'||'e258f6d4-4503-4dde-b25c-1fb9067061e2'||_0x455ec4(0x19a))return console[_0x455ec4(0x113)](_0x455ec4(0x18a)),'static/777.png';else{if(_0xbd9eb8==='982dd974-5be7-4369-90c6-bd92863632ba'||_0x455ec4(0x11f)||_0x455ec4(0x160)||_0x455ec4(0x102))return console['log'](_0x455ec4(0x13b)),_0x455ec4(0xff);else return _0xbd9eb8===_0x455ec4(0x10c)?(console[_0x455ec4(0x113)](_0x455ec4(0x1a8)),_0x455ec4(0xf7)):(console['log'](_0x455ec4(0x180)),'static/plane.png');}}}}}}}}function _0x183656(){const _0x18a5c4=_0x39b5a0;if(_0x611407[_0x18a5c4(0x127)](_0x191fb3))return _0x18a5c4(0x125);else{if(_0x611407[_0x18a5c4(0x127)](_0x5638d6))return _0x18a5c4(0xef);else{if(_0x611407[_0x18a5c4(0x127)](_0x97dc73))return'dark';}}return _0x18a5c4(0x125);}function _0x5a9cc3(_0x2e9a33){const _0x1376ff=_0x39b5a0,_0x1b34f6=_0x2e9a33[_0x1376ff(0x167)][_0x1376ff(0x187)];_0x611407[_0x1376ff(0x13e)](_0x1b34f6,0xe,{'animate':!![],'duration':0x1}),_0x5db769(),_0x3eab9f(),_0x3f4a74();}function _0x2b66ef(_0x3af5cd){const _0xf06d46=_0x39b5a0,{latitude:_0x30b5f6,longitude:_0x131f3c,track:_0x43921a,username:_0x3da46a,callsign:_0x1b2865,altitude:_0x2c2941,speed:_0x4e3397}=_0x3af5cd;let _0x3d30d8=[0x28,0x28];const _0x30f8a5=_0x23ce8f(_0x3af5cd);let _0x173d48='';_0x4e3397<0x28?_0x2c2941>0x1b58?_0x173d48=_0xf06d46(0x135):_0x173d48=_0xf06d46(0x10d):_0x173d48=_0xf06d46(0x11c);const _0x25019a=_0x173d48===_0xf06d46(0x135)?_0xf06d46(0x1a4):_0x30f8a5;if(_0x3af5cd['aircraftId']===_0xf06d46(0x1ab))_0x3d30d8=[0x1c,0x1a];else{if(_0x3af5cd[_0xf06d46(0x131)]==='e258f6d4-4503-4dde-b25c-1fb9067061e2')_0x3d30d8=[0x21,0x28];else(_0x3af5cd[_0xf06d46(0x131)]===_0xf06d46(0x173)||_0xf06d46(0xe1))&&(_0x3d30d8=[0x1e,0x22]);}const _0x3e005d=L[_0xf06d46(0x114)]([_0x30b5f6,_0x131f3c],{'icon':L['divIcon']({'className':_0xf06d46(0x15d),'iconSize':_0x3d30d8,'iconAnchor':[0xf,0xf],'html':_0xf06d46(0x154)+_0x25019a+_0xf06d46(0x147)+_0x43921a+_0xf06d46(0x162)})})['on'](_0xf06d46(0x1aa),_0x2df18c);_0x3e005d[_0xf06d46(0x120)]=_0x3af5cd['flightId'],_0x3e005d[_0xf06d46(0x12e)]={'username':_0x3da46a,'callsign':_0x1b2865,'altitude':_0x2c2941,'speed':_0x4e3397,'track':_0x43921a,'aircraftId':_0x3af5cd[_0xf06d46(0x131)]},_0x3e005d[_0xf06d46(0x130)](_0x611407),_0x1f4aa6[_0xf06d46(0x19e)](_0x3e005d);}function _0x3bdaa7(_0xf1d51b){const _0x10f24f=_0x39b5a0,_0x1b7754=_0x611407[_0x10f24f(0x12f)];_0x1f4aa6[_0x10f24f(0x18f)](_0x302840=>_0x302840['remove']()),_0x1f4aa6=[],_0xf1d51b[_0x10f24f(0x18f)](_0x229391=>{_0x2b66ef(_0x229391);}),_0x1b7754&&_0x1b7754[_0x10f24f(0xf9)](_0x611407);}async function _0x3af77c(){const _0xc79534=_0x39b5a0,_0x4d102f='16g9z0yzub3dszefdibss5455tytdhkr',_0x4fa65c='d2666fb6-c7c9-443a-905a-d0a8876214b3',_0x3bd355=_0xc79534(0x16d)+_0x4fa65c+_0xc79534(0xe9)+_0x4d102f;try{const _0x5d150c=await fetch(_0x3bd355),_0x4fd852=await _0x5d150c[_0xc79534(0xe8)](),_0x5ea973=_0x4fd852[_0xc79534(0x101)];_0x3bdaa7(_0x5ea973);}catch(_0x246237){console['error'](_0xc79534(0xe4),_0x246237);}}function _0x1e9154(){_0x5db769(),_0x3eab9f(),_0x3f4a74();}setInterval(_0x3af77c,0x1388),_0x50cecc['on'](_0x39b5a0(0x13a),_0x5a9cc3),_0x611407['on'](_0x39b5a0(0x1aa),_0x1e9154),_0x3af77c();}));const aircraftTypes={'81d9ccd4-9c03-493a-811e-8fad3e57bd05':'A-10','876b428a-3ee2-46cd-9d8c-2c59424dfcb5':_0x177a67(0x14e),'710c84ae-6fdc-4c4a-ac3b-4031c3036e98':_0x177a67(0x16b),'982dd974-5be7-4369-90c6-bd92863632ba':_0x177a67(0x145),'2c2f162e-a7d9-4ebd-baf4-859aed36165a':'Airbus\x20A319','a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3':_0x177a67(0xe7),'d7434d84-555a-4d9b-93a7-53c77cf846ea':_0x177a67(0x164),'f580ad00-b7c7-4813-9dbc-c4a8c655cc46':_0x177a67(0xfd),'6af2c9f8-abd8-4872-a9bc-4e79fd84fe77':_0x177a67(0xe3),'474810ee-503c-44f2-a305-c176ec8cc431':_0x177a67(0x1a3),'8b00fd70-d825-4c30-a52e-3a27a3a1a157':_0x177a67(0x19c),'230ec095-5e36-4637-ba2f-68831b31e891':_0x177a67(0x166),'f11ed126-bce8-46ef-9265-69191c354575':_0x177a67(0x196),'341820c8-ed7e-4824-9f53-f7489231fe26':_0x177a67(0xf4),'37a10f45-248b-43c5-b2c3-d168fdb5004d':_0x177a67(0x148),'2ec6f8cd-fdb9-464f-87c2-808f778fdb1d':_0x177a67(0x1b4),'f60a537d-5f83-4b68-8f66-b5f76d1e1775':_0x177a67(0x152),'64568366-b72c-47bd-8bf6-6fdb81b683f9':_0x177a67(0x178),'c82da702-ea61-4399-921c-34f35f3ca5c4':_0x177a67(0x177),'de510d3d-04f8-46e0-8d65-55b888f33129':_0x177a67(0x110),'9759c19f-8f18-40f5-80d1-03a272f98a3b':_0x177a67(0xfb),'e94ec915-3368-4bcc-bc78-2c5ad3cfbabb':_0x177a67(0xed),'0d49ce9e-446a-4d12-b651-6983afdeeb40':_0x177a67(0x11b),'3ee45d20-1984-4d95-a753-3696e35cdf77':'Boeing\x20747-SOFIA','ed29f26b-774e-471e-a23a-ecb9b6f5da74':_0x177a67(0x172),'3828d120-d5b9-475b-b368-a94aad264b07':_0x177a67(0x14f),'bec63a00-a483-4427-a076-0f76dba0ee97':'Boeing\x20777-200ER','8290107b-d728-4fc3-b36e-0224c1780bac':_0x177a67(0x136),'e258f6d4-4503-4dde-b25c-1fb9067061e2':_0x177a67(0x1b6),'6925c030-a868-49cc-adc8-7025537c51ca':_0x177a67(0x14d),'61084cae-8aac-4da4-a7df-396ec6d9c870':'Boeing\x20787-10','c1ae3647-f56a-4dc4-9007-cc8b1a2697a5':_0x177a67(0x18b),'0c039044-1a57-48db-99c1-7570a6bf2b00':'Boeing\x20787-9','3098345e-1152-4441-96ec-40a71179a24f':_0x177a67(0x1af),'7b6e1658-42ab-4fc3-81ec-706445346d46':_0x177a67(0x1b3),'33d26fc7-ae7d-4c5d-9e0d-d6cba93d4913':'C-130J','e0e1900e-0e63-4700-b508-5e2efe120ce5':'C-130J-30','2b1249c8-11d8-4fa6-9aae-a99eff451225':'C-17','ef677903-f8d3-414f-a190-233b2b855d46':'Cessna\x20172','206884f9-38a8-4118-a920-a7dcbd166c47':_0x177a67(0x118),'8e316ed6-9296-472a-93f8-4b6ab74b9121':_0x177a67(0x17c),'e92bc6db-a9e6-4137-a93c-a7423715b799':_0x177a67(0x18e),'b3907f6b-c8cf-427b-94fb-1f9365d990df':_0x177a67(0x1ad),'24364e52-3788-487f-9f98-00f38b1f459c':_0x177a67(0x186),'8f34680a-a4ad-4f21-91e9-3a932ab03ca4':'CRJ-700','958486b0-1ef4-4efd-bee0-ea94e96f6c96':_0x177a67(0xf3),'8bafde46-7e6e-44c5-800f-917237c49d75':'CubCrafters\x20XCub','693c3fab-307d-4467-aa40-0a4d569841a9':_0x177a67(0x10b),'e59fa7b4-b708-4480-aebd-26659a4f312b':_0x177a67(0x15f),'af055734-aaed-44ad-a2d0-5b9046f29d0d':_0x177a67(0x195),'7de22dcf-91dd-4932-b225-533298873df2':_0x177a67(0x156),'9bbe741a-6fbe-415b-9eb1-00d45083c7a4':_0x177a67(0x191),'7bd8096f-8eae-47b9-8e1a-38dabd2c59c4':_0x177a67(0x150),'849366e1-cb11-4d72-9034-78b11cd026b0':_0x177a67(0xe5),'0a3edb21-d515-4619-8392-aef51b952ac9':_0x177a67(0x13c),'b1e726b0-be58-4a9b-88e5-e40bc40a1f9a':_0x177a67(0x123),'3f78766a-30c8-4d65-95ae-ebc2fb758aac':_0x177a67(0x194),'9769c825-0f89-4faf-abb1-9dd473321ede':_0x177a67(0x14b),'61bd47dc-e12b-4912-9d91-719e1f9298d7':_0x177a67(0x107),'8a62f1d0-bca9-494c-bc01-1fb8b7255f76':_0x177a67(0x109),'3f17ca35-b384-4391-aa5e-5beececb0612':'TBM-930'};
+
+document.addEventListener('DOMContentLoaded', function () {
+    var maxBounds = [
+        [-90, -195],
+        [90, 195]
+    ];
+    var mymap = L.map('map', {
+        center: [10, -0],
+        zoom: 1.5,
+        noWrap: false,
+        maxBounds: maxBounds,
+        maxBoundsViscosity: 0.85,
+        minZoom: 1.5
+    });
+
+    const osmLayer = L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+        attribution: '© OpenStreetMap contributors',
+        noWrap: false
+    }).addTo(mymap);
+
+
+    var apiKeyweather = '55915385cd68325e3e3b68dcd1fd80f7';
+
+
+    function createLayer(layerType) {
+        return L.tileLayer(`https://tile.openweathermap.org/map/${layerType}/{z}/{x}/{y}.png?appid=${apiKeyweather}`, {
+            opacity: 1,
+            maxZoom: 19,
+        });
+    }
+
+    var currentLayer = createLayer('none');
+    currentLayer.addTo(mymap);
+
+    document.getElementById('layerSelect').addEventListener('change', function(e) {
+        var selectedLayer = e.target.value;
+        if (currentLayer) {
+            mymap.removeLayer(currentLayer);
+        }
+        currentLayer = createLayer(selectedLayer);
+        currentLayer.addTo(mymap);
+    });
+
+    const darkLayer = L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png');
+    const satelliteLayer = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}');
+    const buttonImage = document.getElementById("changeMapBtn");
+    const geocoder = L.Control.geocoder({
+        defaultMarkGeocode: false,
+    }).addTo(mymap);
+
+    let flightMarkers = [];
+    let routePolyline;
+    let segmentPolyline;
+
+    async function onMarkerClick(e) {
+        const flightId = e.target.flightId;
+        removeExistingPolyline();
+        removeExistingFlightPlan();
+        removeFlightInfoInTextSection();
+        const flightInfo = await fetchFlightInfo(flightId);
+        if (flightInfo) {
+            showFlightInfoInTextSection(flightInfo);
+            const route = await fetchFlightRoute(flightId);
+            if (route) {
+                displayRoutePolyline(route, e.latlng);
+            }
+        }
+        console.log("Flight ID clicked:", e.target.flightId);
+    }
+
+    
+    async function removeExistingPolyline() {
+        if (routePolyline) {
+            mymap.removeLayer(routePolyline);
+            routePolyline = null;
+        }
+        if (segmentPolyline) {
+            mymap.removeLayer(segmentPolyline);
+            segmentPolyline = null;
+        }
+    }
+
+    async function removeExistingFlightPlan() {
+        if (flightPlanPolyline) {
+            mymap.removeLayer(flightPlanPolyline);
+            routePolyline = null;
+        }
+    }
+
+    function removeFlightInfoInTextSection() {
+        const textSection = document.getElementById('text-section');
+        textSection.innerHTML = '';
+    }
+
+    
+
+    async function fetchFlightInfo(flightId) {
+        const apiKey = '16g9z0yzub3dszefdibss5455tytdhkr';
+        const sessionId = 'd2666fb6-c7c9-443a-905a-d0a8876214b3';
+        const flightApiUrl = `https://api.infiniteflight.com/public/v2/sessions/${sessionId}/flights/${flightId}?apikey=${apiKey}`;
+    
+        try {
+            const response = await fetch(flightApiUrl);
+            const data = await response.json();
+    
+            if (data.errorCode === 0) {
+                return data.result;
+            } else {
+                console.error('Error fetching flight info:', data);
+                return null;
+            }
+        } catch (error) {
+            console.error('Error fetching flight info:', error);
+            return null;
+        }
+    }
+
+    async function fetchFlightRoute(flightId) {
+        const apiKey = '16g9z0yzub3dszefdibss5455tytdhkr';
+        const sessionId = 'd2666fb6-c7c9-443a-905a-d0a8876214b3';
+        const routeApiUrl = `https://api.infiniteflight.com/public/v2/sessions/${sessionId}/flights/${flightId}/route?apikey=${apiKey}`;
+    
+        try {
+            const response = await fetch(routeApiUrl);
+            const data = await response.json();
+    
+            if (data.errorCode === 0) {
+                return data.result;
+            } else {
+                console.error('Error fetching flight route:', data);
+                return null;
+            }
+        } catch (error) {
+            console.error('Error fetching flight route:', error);
+            return null;
+        }
+    }
+
+    async function fetchFlightPlan(flightId) {
+        const apiKey = '16g9z0yzub3dszefdibss5455tytdhkr';
+        const sessionId = 'd2666fb6-c7c9-443a-905a-d0a8876214b3';
+        const flightPlanApiURL = `https://api.infiniteflight.com/public/v2/sessions/${sessionId}/flights/${flightId}/flightplan?apikey=${apiKey}`;
+    
+        try {
+            const response = await fetch(flightPlanApiURL, {
+                headers: {
+                    'Authorization': `Bearer ${apiKey}`
+                }
+            });
+            const data = await response.json();
+    
+            if (data.errorCode === 0) {
+                return data.result;
+            } else {
+                console.error('Error Fetching Flight Plan, Sorry...', data);
+                return null;
+            }
+        } catch (error) {
+            console.error('Error fetching flight plan:', error);
+            return null;
+        }
+    }
+
+    let flightPlanPolyline;
+
+    function displayFlightPlanPolyline(flightPlan) {
+        if (!flightPlan || !flightPlan.flightPlanItems) return;
+    
+        const coordinates = flightPlan.flightPlanItems
+            .map(item => [item.location.latitude, item.location.longitude])
+            .filter(coord => coord[0] !== 0 && coord[1] !== 0); // Ignore invalid coordinates
+    
+        if (flightPlanPolyline) {
+            mymap.removeLayer(flightPlanPolyline);
+        }
+    
+        flightPlanPolyline = L.polyline(coordinates, {
+            color: 'red',
+            dashArray: '5, 10',
+            weight: 2,
+            opacity: 0.7
+        }).addTo(mymap);
+    
+        mymap.fitBounds(flightPlanPolyline.getBounds()); // Adjust map view to fit polyline
+    }
+    
+    
+
+    async function showFlightInfoInTextSection(flightInfo) {
+        const { username, callsign, altitude, speed, aircraftId, flightId } = flightInfo;
+        const roundedAltitude = Math.round(altitude);
+        const roundedSpeed = Math.round(speed);
+        const aircraftType = aircraftTypes[aircraftId] || "IDK, it's broken";
+    
+        const textSection = document.getElementById('text-section');
+    
+        let flightStatus = '';
+        let flightStatusColor = '';
+        if (speed < 40) {
+            if (altitude > 7000) {
+                flightStatus = 'Paused';
+                flightStatusColor = 'orange';
+            } else {
+                flightStatus = 'On Ground';
+                flightStatusColor = 'red';
+            }
+        } else {
+            flightStatus = 'In Flight';
+            flightStatusColor = 'hsl(120, 100%, 50%)';
+        }
+        const flightPlan = await fetchFlightPlan(flightId);
+        let waypointsInfo = '<p><b>Route:</b> ';
+        if (flightPlan && flightPlan.result && flightPlan.result.waypoints) {
+            if (flightPlan.result.waypoints.length > 1) {
+                waypointsInfo += `<span style="color: orange;">${flightPlan.result.waypoints[0]} → ${flightPlan.result.waypoints[flightPlan.result.waypoints.length - 1]}</span></p>`;
+                displayFlightPlanPolyline(flightPlan.result); 
+            } else {
+                waypointsInfo += `<span style="color: orange;">${flightPlan.result.waypoints[0]}</span></p>`;
+            }
+        } else {
+            waypointsInfo += 'No flight plan available.</p>';
+        }
+    
+        const flightInfoContent = `
+            <h2>Flight Information</h2>
+            <p><b>Username:   </b> ${username || 'No Username :('}</p>
+            <p><b>Callsign:   </b> ${callsign}</p>
+            <p><b>Aircraft Type:   </b> ${aircraftType}</p>
+            <p><b>Altitude:   </b> <span>${roundedAltitude} feet</span></p>
+            <p><b>Speed:   </b> ${roundedSpeed} knots</p>
+            <p><b>Flight Status:   </b> <span style="color: ${flightStatusColor};">${flightStatus}</span></p>
+            ${waypointsInfo}
+        `;
+    
+        textSection.innerHTML = flightInfoContent;
+    
+        const downloadGPXButton = document.createElement('button');
+        downloadGPXButton.textContent = 'Download GPX';
+        downloadGPXButton.classList.add('btnStyle');
+        downloadGPXButton.addEventListener('click', () => {
+            downloadGPX(flightInfo);
+        });
+        textSection.appendChild(downloadGPXButton);
+    
+        const downloadKMLButton = document.createElement('button');
+        downloadKMLButton.textContent = 'Download KML';
+        downloadKMLButton.classList.add('btnStyle');
+        downloadKMLButton.addEventListener('click', () => {
+            downloadKML(flightInfo);
+        });
+        textSection.appendChild(downloadKMLButton);
+    }
+    
+    
+    
+    
+
+    async function downloadGPX(flightInfo) {
+        const flightId = flightInfo.flightId;
+        const route = await fetchFlightRoute(flightId);
+        if (route) {
+            const gpxData = generateGPX(route);
+            const blob = new Blob([gpxData], { type: 'application/gpx+xml' });
+            const link = document.createElement('a');
+            const shortenedLastReport = flightInfo.lastReport.slice(0, 10);
+            link.href = window.URL.createObjectURL(blob);
+            link.download = flightInfo.username + '_' + shortenedLastReport + '.gpx';
+            link.click();
+        } else {
+            console.error('Error downloading GPX: Route data is missing.');
+        }
+    }
+    
+    function generateGPX(route, username, date) {
+        let gpxContent = `<?xml version="1.0" encoding="UTF-8"?>
+    <gpx version="1.1" creator="Your Application Name" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+      <metadata>
+        <name>${username} - ${date}</name>
+        <desc>Flight Route GPX</desc>
+      </metadata>
+      <trk>
+        <name>${username} - ${date}</name>
+        <desc>Flight Route GPX</desc>
+        <trkseg>
+    `;
+        route.forEach(point => {
+            gpxContent += `      <trkpt lat="${point.latitude}" lon="${point.longitude}">
+            <ele>${point.altitude}/3.2808</ele>
+            <time>${point.date}</time>
+          </trkpt>
+    `;
+        });
+        gpxContent += `    </trkseg>
+      </trk>
+    </gpx>`;
+        return gpxContent;
+    }
+
+
+    async function downloadKML(flightInfo) {
+        const flightId = flightInfo.flightId;
+        const route = await fetchFlightRoute(flightId);
+        if (route) {
+            const currentDate = new Date().toISOString();
+            const kmlData = generateKML(route, flightInfo.username, currentDate);
+            const blob = new Blob([kmlData], { type: 'application/vnd.google-earth.kml+xml' });
+            const link = document.createElement('a');
+            const shortenedLastReport = flightInfo.lastReport.slice(0, 10);
+            link.href = window.URL.createObjectURL(blob);
+            link.download = flightInfo.username + '_' + shortenedLastReport + '.kml';
+            link.click();
+        } else {
+            console.error('Error downloading KML: Route data is missing.');
+        }
+    }
+    
+    
+
+    function generateKML(route, username, date) {
+        let kmlContent = `<?xml version="1.0" encoding="UTF-8"?>
+        <kml xmlns="http://www.opengis.net/kml/2.2">
+          <Document>
+            <name>${username} - ${date}</name>
+            <description>Flight Route KML</description>
+            <Style id="line-ffa500-240-nodesc-normal">
+              <LineStyle>
+                <color>ff00a5ff</color>
+                <width>2</width>
+              </LineStyle>
+            </Style>
+            <Placemark>
+              <styleUrl>#line-ffa500-240-nodesc-normal</styleUrl>
+              <LineString>
+                <extrude>1</extrude>
+                <tessellate>1</tessellate>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>
+        `;
+        route.forEach(point => {
+            kmlContent += `          ${point.longitude},${point.latitude},${point.altitude}/3.2808\n`;
+        });
+        kmlContent += `        </coordinates>
+              </LineString>
+            </Placemark>
+          </Document>
+        </kml>`;
+        return kmlContent;
+    }
+    
+
+    
+    function displayRoutePolyline(route, clickedMarkerLatLng) {
+        if (!route || route.length === 0) return;
+    
+        const coordinates = route.map(point => [point.latitude, point.longitude]);
+    
+        if (routePolyline) {
+            mymap.removeLayer(routePolyline);
+        }
+    
+        routePolyline = L.polyline(coordinates, {
+            color: 'white',
+            weight: 3,
+            opacity: 0.8,
+            smoothFactor: 1
+        }).addTo(mymap);
+    
+        // Ensure the last point is properly aligned with the clicked marker
+        if (clickedMarkerLatLng) {
+            routePolyline.addLatLng(clickedMarkerLatLng);
+        }
+    
+        mymap.fitBounds(routePolyline.getBounds()); // Adjust view to fit the polyline
+    }
+    
+    
+    async function showFlightInfoInTextSection(flightInfo) {
+        const { username, callsign, altitude, speed, aircraftId, flightId } = flightInfo;
+        const roundedAltitude = Math.round(altitude);
+        const roundedSpeed = Math.round(speed);
+        const aircraftType = aircraftTypes[aircraftId] || 'Unknownn';
+    
+        const textSection = document.getElementById('text-section');
+    
+        let flightStatus = '';
+        let flightStatusColor = '';
+        if (speed < 40) {
+            if (altitude > 7000) {
+                flightStatus = 'Paused';
+                flightStatusColor = 'orange'; // Choose a color to represent "Paused"
+            } else {
+                flightStatus = 'On Ground';
+                flightStatusColor = 'red';
+            }
+        } else {
+            flightStatus = 'In Flight';
+            flightStatusColor = 'hsl(0, 0.00%, 100.00%)';
+        }
+    
+        const flightPlan = await fetchFlightPlan(flightId);
+        let waypointsInfo = '<p><b>Route:</b> ';
+        if (flightPlan && flightPlan.waypoints) {
+            if (flightPlan.waypoints.length > 1) {
+                waypointsInfo += `<span style="color: pink;">${flightPlan.waypoints[0]} → ${flightPlan.waypoints[flightPlan.waypoints.length - 1]}</span></p>`;
+                displayFlightPlanPolyline(flightPlan); 
+            } else {
+                waypointsInfo += `<span style="color: pink;">${flightPlan.waypoints[0]}</span></p>`;
+            }
+        } else {
+            waypointsInfo += 'No flight plan available.</p>';
+        }
+    
+        const flightInfoContent = `
+            <h2>Flight Information</h2>
+            <p><b>Username:   </b> ${username || 'No Username :('}</p>
+            <p><b>Callsign:   </b> ${callsign}</p>
+            <p><b>Aircraft Type:   </b> ${aircraftType}</p>
+            <p><b>Altitude:   </b> <span>${roundedAltitude} feet</span></p>
+            <p><b>Speed:   </b> ${roundedSpeed} knots</p>
+            <p><b>Flight Status:   </b> <span style="color: ${flightStatusColor};">${flightStatus}</span></p>
+            ${waypointsInfo}
+        `;
+    
+        textSection.innerHTML = flightInfoContent;
+    
+        const downloadGPXButton = document.createElement('button');
+        downloadGPXButton.textContent = 'Download GPX';
+        downloadGPXButton.classList.add('btnStyle');
+        downloadGPXButton.addEventListener('click', () => {
+            downloadGPX(flightInfo);
+        });
+        textSection.appendChild(downloadGPXButton);
+    
+        const downloadKMLButton = document.createElement('button');
+        downloadKMLButton.textContent = 'Download KML';
+        downloadKMLButton.classList.add('btnStyle');
+        downloadKMLButton.addEventListener('click', () => {
+            downloadKML(flightInfo);
+        });
+        textSection.appendChild(downloadKMLButton);
+    }
+    
+    
+    
+
+
+
+    
+    function getMarkerIconUrl(flightInfo) {
+        console.log("Flight Username:", flightInfo.username);
+        const currentMapStyle = getCurrentMapStyle();
+        const { username } = flightInfo;
+        const planeType = flightInfo.aircraftId;
+    
+        if (planeType === '206884f9-38a8-4118-a920-a7dcbd166c47') {
+            console.log("Using C172.png for specific aircraft ID");
+            return "static/C172.png";
+        } else if (planeType === 'f11ed126-bce8-46ef-9265-69191c354575') {
+            console.log("Using A380.png for specific aircraft ID");
+            return "static/A380.png";
+        } else if (planeType === 'ef677903-f8d3-414f-a190-233b2b855d46') {
+            console.log("Using C172.png for specific aircraft ID");
+            return "static/C172.png";
+        } else if (planeType === 'c82da702-ea61-4399-921c-34f35f3ca5c4' || planeType === 'de510d3d-04f8-46e0-8d65-55b888f33129' || planeType === '9759c19f-8f18-40f5-80d1-03a272f98a3b') {
+            console.log("Using 747.png for specific aircraft ID");
+            return "static/747.png";
+        } else if (planeType === '0a3edb21-d515-4619-8392-aef51b952ac9') {
+            console.log("Using F18.png for specific aircraft ID");
+            return "static/F18.png";
+        } else if (planeType === '7bd8096f-8eae-47b9-8e1a-38dabd2c59c4') {
+            console.log("Using F16.png for specific aircraft ID");
+            return "static/F16.png";
+        } else if (planeType === 'bec63a00-a483-4427-a076-0f76dba0ee97' || '8290107b-d728-4fc3-b36e-0224c1780bac' || 'e258f6d4-4503-4dde-b25c-1fb9067061e2' || '6925c030-a868-49cc-adc8-7025537c51ca') {
+            console.log("Using 777.png for specific aircraft ID");
+            return "static/777.png";
+        } else if (planeType === '982dd974-5be7-4369-90c6-bd92863632ba' || '2c2f162e-a7d9-4ebd-baf4-859aed36165a' || 'a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3' || 'd7434d84-555a-4d9b-93a7-53c77cf846ea') {
+            console.log("Using A320.png for specific aircraft ID");
+            return "static/A320.png";
+        } else if (planeType === '8a62f1d0-bca9-494c-bc01-1fb8b7255f76') {
+            console.log("Using Spitfire.png for specific aircraft ID");
+            return "static/Spitfire.png";
+        } else {
+            console.log("Using plane.png");
+            return "static/plane.png";
+        }
+    }
+    
+
+
+    function getCurrentMapStyle() {
+        if (mymap.hasLayer(osmLayer)) {
+            return 'osm';
+        } else if (mymap.hasLayer(satelliteLayer)) {
+            return 'satellite';
+        } else if (mymap.hasLayer(darkLayer)) {
+            return 'dark';
+        }
+        return 'osm';
+    }
+
+    function zoomToLocation(e) {
+        const latlng = e.geocode.center;
+        mymap.flyTo(latlng, 14, {
+            animate: true,
+            duration: 1,
+        });
+
+        removeExistingPolyline();
+        removeExistingFlightPlan();
+        removeFlightInfoInTextSection();
+    }
+
+    function createFlightMarker(flight) {
+        const { latitude, longitude, track, username, callsign, altitude, speed } = flight;
+        let iconSize = [40, 40]; 
+        const iconUrl = getMarkerIconUrl(flight); // Get the default icon based on aircraft type
+    
+        // Determine flight status
+        let flightStatus = '';
+        if (speed < 40) {
+            if (altitude > 7000) {
+                flightStatus = 'Paused';
+            } else {
+                flightStatus = 'On Ground';
+            }
+        } else {
+            flightStatus = 'In Flight';
+        }
+    
+        // If the flight is paused, change the icon to circle.png
+        const markerIconUrl = flightStatus === 'Paused' ? "static/circle.png" : iconUrl;
+    
+        // Adjust icon size based on specific aircraft IDs if necessary
+        if (flight.aircraftId === 'ef677903-f8d3-414f-a190-233b2b855d46') {
+            iconSize = [28, 26];
+        } else if (flight.aircraftId === 'e258f6d4-4503-4dde-b25c-1fb9067061e2') {
+            iconSize = [33, 40];
+        } else if (flight.aircraftId === '0a3edb21-d515-4619-8392-aef51b952ac9' || '7bd8096f-8eae-47b9-8e1a-38dabd2c59c4') {
+            iconSize = [30, 34];
+        }
+    
+        const marker = L.marker([latitude, longitude], {
+            icon: L.divIcon({
+                className: 'custom-marker',
+                iconSize: iconSize,
+                iconAnchor: [15, 15],
+                html: `<img src="${markerIconUrl}" style="width: 100%; height: 100%; transform: rotate(${track}deg);">`
+            }),
+        }).on('click', onMarkerClick);
+    
+        marker.flightId = flight.flightId;
+        marker.flightInfo = { username, callsign, altitude, speed, track, aircraftId: flight.aircraftId };
+        marker.addTo(mymap);
+        flightMarkers.push(marker);
+    }
+    
+    
+
+    function addFlightMarkers(flights) {
+        const openPopup = mymap._popup;
+
+        flightMarkers.forEach(marker => marker.remove());
+        flightMarkers = [];
+
+        flights.forEach(flight => {
+            createFlightMarker(flight);
+        });
+
+        if (openPopup) {
+            openPopup.openOn(mymap);
+        }
+    }
+
+    async function fetchFlights() {
+        const apiKey = '16g9z0yzub3dszefdibss5455tytdhkr';
+        const sessionId = 'd2666fb6-c7c9-443a-905a-d0a8876214b3';
+        const apiUrl = `https://api.infiniteflight.com/public/v2/sessions/${sessionId}/flights?apikey=${apiKey}`;
+
+        try {
+            const response = await fetch(apiUrl);
+            const data = await response.json();
+            const flights = data.result;
+            addFlightMarkers(flights);
+        } catch (error) {
+            console.error('Error fetching flights:', error);
+        }
+    }
+
+    function clearRouteOnMapClick() {
+        removeExistingPolyline();
+        removeExistingFlightPlan();
+        removeFlightInfoInTextSection();
+    }
+
+    setInterval(fetchFlights, 5000);
+
+    geocoder.on('markgeocode', zoomToLocation);
+
+    mymap.on('click', clearRouteOnMapClick);
+
+    fetchFlights();
+});
+
+
+
+
+
+
+
+
+
+
+
+const aircraftTypes = {
+    '81d9ccd4-9c03-493a-811e-8fad3e57bd05': 'A-10',
+    '876b428a-3ee2-46cd-9d8c-2c59424dfcb5': 'AC-130',
+    '710c84ae-6fdc-4c4a-ac3b-4031c3036e98': 'Airbus A220-300',
+    '982dd974-5be7-4369-90c6-bd92863632ba': 'Airbus A318',
+    '2c2f162e-a7d9-4ebd-baf4-859aed36165a': 'Airbus A319',
+    'a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3': 'Airbus A320',
+    'd7434d84-555a-4d9b-93a7-53c77cf846ea': 'Airbus A321',
+    'f580ad00-b7c7-4813-9dbc-c4a8c655cc46': 'Airbus A330-200F',
+    '6af2c9f8-abd8-4872-a9bc-4e79fd84fe77': 'Airbus A330-300',
+    '474810ee-503c-44f2-a305-c176ec8cc431': 'Airbus A330-900',
+    '8b00fd70-d825-4c30-a52e-3a27a3a1a157': 'Airbus A340-600',
+    '230ec095-5e36-4637-ba2f-68831b31e891': 'Airbus A350',
+    'f11ed126-bce8-46ef-9265-69191c354575': 'Airbus A380',
+    '341820c8-ed7e-4824-9f53-f7489231fe26': 'Boeing 717-200',
+    '37a10f45-248b-43c5-b2c3-d168fdb5004d': 'Boeing 737 MAX8',
+    '2ec6f8cd-fdb9-464f-87c2-808f778fdb1d': 'Boeing 737-700',
+    'f60a537d-5f83-4b68-8f66-b5f76d1e1775': 'Boeing 737-800',
+    '64568366-b72c-47bd-8bf6-6fdb81b683f9': 'Boeing 737-900',
+    'c82da702-ea61-4399-921c-34f35f3ca5c4': 'Boeing 747-200',
+    'de510d3d-04f8-46e0-8d65-55b888f33129': 'Boeing 747-400',
+    '9759c19f-8f18-40f5-80d1-03a272f98a3b': 'Boeing 747-8',
+    'e94ec915-3368-4bcc-bc78-2c5ad3cfbabb': 'Boeing 747-AF1',
+    '0d49ce9e-446a-4d12-b651-6983afdeeb40': 'Boeing 747-SCA',
+    '3ee45d20-1984-4d95-a753-3696e35cdf77': 'Boeing 747-SOFIA',
+    'ed29f26b-774e-471e-a23a-ecb9b6f5da74': 'Boeing 757-200',
+    '3828d120-d5b9-475b-b368-a94aad264b07': 'Boeing 767-300',
+    'bec63a00-a483-4427-a076-0f76dba0ee97': 'Boeing 777-200ER',
+    '8290107b-d728-4fc3-b36e-0224c1780bac': 'Boeing 777-200LR',
+    'e258f6d4-4503-4dde-b25c-1fb9067061e2': 'Boeing 777-300ER',
+    '6925c030-a868-49cc-adc8-7025537c51ca': 'Boeing 777F',
+    '61084cae-8aac-4da4-a7df-396ec6d9c870': 'Boeing 787-10',
+    'c1ae3647-f56a-4dc4-9007-cc8b1a2697a5': 'Boeing 787-8',
+    '0c039044-1a57-48db-99c1-7570a6bf2b00': 'Boeing 787-9',
+    '3098345e-1152-4441-96ec-40a71179a24f': 'Bombardier Dash 8-Q400',
+    '7b6e1658-42ab-4fc3-81ec-706445346d46': 'C-130H',
+    '33d26fc7-ae7d-4c5d-9e0d-d6cba93d4913': 'C-130J',
+    'e0e1900e-0e63-4700-b508-5e2efe120ce5': 'C-130J-30',
+    '2b1249c8-11d8-4fa6-9aae-a99eff451225': 'C-17',
+    'ef677903-f8d3-414f-a190-233b2b855d46': 'Cessna 172',
+    '206884f9-38a8-4118-a920-a7dcbd166c47': 'Cessna 208',
+    '8e316ed6-9296-472a-93f8-4b6ab74b9121': 'Challenger 350',
+    'e92bc6db-a9e6-4137-a93c-a7423715b799': 'Cirrus SR22 GTS',
+    'b3907f6b-c8cf-427b-94fb-1f9365d990df': 'CRJ-1000',
+    '24364e52-3788-487f-9f98-00f38b1f459c': 'CRJ-200',
+    '8f34680a-a4ad-4f21-91e9-3a932ab03ca4': 'CRJ-700',
+    '958486b0-1ef4-4efd-bee0-ea94e96f6c96': 'CRJ-900',
+    '8bafde46-7e6e-44c5-800f-917237c49d75': 'CubCrafters XCub',
+    '693c3fab-307d-4467-aa40-0a4d569841a9': 'DC-10',
+    'e59fa7b4-b708-4480-aebd-26659a4f312b': 'DC-10F',
+    'af055734-aaed-44ad-a2d0-5b9046f29d0d': 'E175',
+    '7de22dcf-91dd-4932-b225-533298873df2': 'E190',
+    '9bbe741a-6fbe-415b-9eb1-00d45083c7a4': 'F-14',
+    '7bd8096f-8eae-47b9-8e1a-38dabd2c59c4': 'F-16',
+    '849366e1-cb11-4d72-9034-78b11cd026b0': 'F-22',
+    '0a3edb21-d515-4619-8392-aef51b952ac9': 'F/A-18E Super Hornet',
+    'b1e726b0-be58-4a9b-88e5-e40bc40a1f9a': 'MD-11',
+    '3f78766a-30c8-4d65-95ae-ebc2fb758aac': 'MD-11F',
+    '9769c825-0f89-4faf-abb1-9dd473321ede': 'P-38',
+    '61bd47dc-e12b-4912-9d91-719e1f9298d7': 'Space Shuttle',
+    '8a62f1d0-bca9-494c-bc01-1fb8b7255f76': 'Spitfire',
+    '3f17ca35-b384-4391-aa5e-5beececb0612': 'TBM-930'
+};
