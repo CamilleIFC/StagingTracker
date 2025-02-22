@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function () {
     });
 
     const osmLayer = L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
-        attribution: '© OpenStreetMap contributors',
+        attribution: '© OpenStreetMap contributors or smthn IDK',
         noWrap: false
     }).addTo(mymap);
 
@@ -168,7 +168,7 @@ document.addEventListener('DOMContentLoaded', function () {
     
         const coordinates = flightPlan.flightPlanItems
             .map(item => [item.location.latitude, item.location.longitude])
-            .filter(coord => coord[0] !== 0 && coord[1] !== 0); // Ignore invalid coordinates
+            .filter(coord => coord[0] !== 0 && coord[1] !== 0); // Fuckety fuck fuck
     
         if (flightPlanPolyline) {
             mymap.removeLayer(flightPlanPolyline);
@@ -181,7 +181,7 @@ document.addEventListener('DOMContentLoaded', function () {
             opacity: 0.7
         }).addTo(mymap);
     
-        mymap.fitBounds(flightPlanPolyline.getBounds()); // Adjust map view to fit polyline
+        mymap.fitBounds(flightPlanPolyline.getBounds()); // Aaaaaaahhhhhhhhhh
     }
     
     
@@ -365,12 +365,12 @@ document.addEventListener('DOMContentLoaded', function () {
             smoothFactor: 1
         }).addTo(mymap);
     
-        // Ensure the last point is properly aligned with the clicked marker
+
         if (clickedMarkerLatLng) {
             routePolyline.addLatLng(clickedMarkerLatLng);
         }
     
-        mymap.fitBounds(routePolyline.getBounds()); // Adjust view to fit the polyline
+        mymap.fitBounds(routePolyline.getBounds()); 
     }
     
     
@@ -387,7 +387,7 @@ document.addEventListener('DOMContentLoaded', function () {
         if (speed < 40) {
             if (altitude > 7000) {
                 flightStatus = 'Paused';
-                flightStatusColor = 'orange'; // Choose a color to represent "Paused"
+                flightStatusColor = 'orange';
             } else {
                 flightStatus = 'On Ground';
                 flightStatusColor = 'red';
@@ -513,9 +513,9 @@ document.addEventListener('DOMContentLoaded', function () {
     function createFlightMarker(flight) {
         const { latitude, longitude, track, username, callsign, altitude, speed } = flight;
         let iconSize = [40, 40]; 
-        const iconUrl = getMarkerIconUrl(flight); // Get the default icon based on aircraft type
+        const iconUrl = getMarkerIconUrl(flight);
     
-        // Determine flight status
+
         let flightStatus = '';
         if (speed < 40) {
             if (altitude > 7000) {
@@ -527,10 +527,10 @@ document.addEventListener('DOMContentLoaded', function () {
             flightStatus = 'In Flight';
         }
     
-        // If the flight is paused, change the icon to circle.png
+
         const markerIconUrl = flightStatus === 'Paused' ? "static/circle.png" : iconUrl;
     
-        // Adjust icon size based on specific aircraft IDs if necessary
+
         if (flight.aircraftId === 'ef677903-f8d3-414f-a190-233b2b855d46') {
             iconSize = [28, 26];
         } else if (flight.aircraftId === 'e258f6d4-4503-4dde-b25c-1fb9067061e2') {
