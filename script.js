@@ -96,7 +96,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     async function fetchFlightInfo(flightId) {
         const apiKey = '16g9z0yzub3dszefdibss5455tytdhkr';
-        const sessionId = 'd2666fb6-c7c9-443a-905a-d0a8876214b3';
+        const sessionId = 'ed323139-baa7-4834-b9d6-5fb9f19ff11e';
         const flightApiUrl = `https://api.infiniteflight.com/public/v2/sessions/${sessionId}/flights/${flightId}?apikey=${apiKey}`;
     
         try {
@@ -117,7 +117,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     async function fetchFlightRoute(flightId) {
         const apiKey = '16g9z0yzub3dszefdibss5455tytdhkr';
-        const sessionId = 'd2666fb6-c7c9-443a-905a-d0a8876214b3';
+        const sessionId = 'ed323139-baa7-4834-b9d6-5fb9f19ff11e';
         const routeApiUrl = `https://api.infiniteflight.com/public/v2/sessions/${sessionId}/flights/${flightId}/route?apikey=${apiKey}`;
     
         try {
@@ -138,7 +138,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     async function fetchFlightPlan(flightId) {
         const apiKey = '16g9z0yzub3dszefdibss5455tytdhkr';
-        const sessionId = 'd2666fb6-c7c9-443a-905a-d0a8876214b3';
+        const sessionId = 'ed323139-baa7-4834-b9d6-5fb9f19ff11e';
         const flightPlanApiURL = `https://api.infiniteflight.com/public/v2/sessions/${sessionId}/flights/${flightId}/flightplan?apikey=${apiKey}`;
     
         try {
@@ -573,7 +573,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     async function fetchFlights() {
         const apiKey = '16g9z0yzub3dszefdibss5455tytdhkr';
-        const sessionId = 'd2666fb6-c7c9-443a-905a-d0a8876214b3';
+        const sessionId = 'ed323139-baa7-4834-b9d6-5fb9f19ff11e';
         const apiUrl = `https://api.infiniteflight.com/public/v2/sessions/${sessionId}/flights?apikey=${apiKey}`;
 
         try {
